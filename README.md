@@ -1,26 +1,26 @@
-### 🧪 JUnit Practice – Hello World (Java)
+## 🧪 JUnit Practice – Hello World (Java)
 - This repository contains a simple Hello World Java program created to practice JUnit unit testing concepts.
 - The project is mainly focused on understanding how to write and run test cases using JUnit.
 
-## 📌 Purpose of This Project
+### 📌 Purpose of This Project
 - Learn JUnit framework
 - Practice writing unit tests
 - Understand assertions
 - Get familiar with test execution flow
 - Improve confidence in Java testing
 
-## 🛠️ Technologies Used
+### 🛠️ Technologies Used
 1. Java
 2. JUnit
 3. VS Code 
 4. Git & GitHub
 
-## 📂 Project Structure
+### 📂 Project Structure
 ├── Hello.java
 ├── Hello.class
 ├── README.md
 
-## 📄 Program Description
+### 📄 Program Description
 **Hello.java**
 
 public class Hello {
@@ -34,7 +34,7 @@ Hello world
 
 - JUnit is used to test and verify the output and behavior of this program.
 
-## 🧪 What I Practiced Using JUnit
+### 🧪 What I Practiced Using JUnit
 - Creating test classes
 - Using @Test annotation
 - Applying assertions:
@@ -42,7 +42,7 @@ Hello world
    assertNotNull()
 - Running and analyzing test results
 
-## 🚀 How to Run
+### 🚀 How to Run
 **Clone the repository:**
 - git clone https://github.com/AnjaliYadav-04/<your-repo-name>.git
 - Open in any Java IDE
