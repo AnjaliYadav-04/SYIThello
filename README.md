@@ -1,4 +1,4 @@
-## 🧪 JUnit Practice – Hello World (Java)
+### 🧪 JUnit Practice – Hello World (Java)
 - This repository contains a simple Hello World Java program created to practice JUnit unit testing concepts.
 - The project is mainly focused on understanding how to write and run test cases using JUnit.
 
